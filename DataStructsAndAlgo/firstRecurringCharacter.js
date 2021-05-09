@@ -21,7 +21,9 @@ function firstRecurringCharacter(input) {
 }
 
 function firstRecurringCharacter2(input) { 
-    let map = {}    
+    let map = {
+      
+    }    
 
     for(let i = 0; i < input.length; i++) {
         if(map[input[i]] !== undefined) {
