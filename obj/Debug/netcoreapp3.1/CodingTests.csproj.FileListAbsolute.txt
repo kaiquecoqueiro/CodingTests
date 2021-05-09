@@ -1,0 +1,12 @@
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/bin/Debug/netcoreapp3.1/CodingTests.deps.json
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/bin/Debug/netcoreapp3.1/CodingTests.runtimeconfig.json
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/bin/Debug/netcoreapp3.1/CodingTests.runtimeconfig.dev.json
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/bin/Debug/netcoreapp3.1/CodingTests.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/bin/Debug/netcoreapp3.1/CodingTests.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.csprojAssemblyReference.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.AssemblyInfoInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.AssemblyInfo.cs
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.csproj.CoreCompileInputs.cache
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.dll
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.pdb
+/Users/kaiquecoqueiro/Documents/sandbox/CodingTests/obj/Debug/netcoreapp3.1/CodingTests.genruntimeconfig.cache
